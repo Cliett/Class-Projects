@@ -1,0 +1,289 @@
+<style type="text/css" > body {
+    font-size: 20px;
+    background: white;
+    padding: 2em;
+    margin: 1em;
+    text-align: center;
+    font-family: "verdana";
+}
+
+
+#overleft {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    margin-left: 0px;
+    width: 25%;
+    height: 100%;
+    border: 1px solid LightGray;
+    background-color: LightGray;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overright {
+    position: absolute;
+    top: 0%;
+    left: 75%;
+    margin-left: 0px;
+    width: 25%;
+    height: 100%;
+    border: 1px solid LightGray;
+    background-color: LightGray;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overbottom {
+    position: absolute;
+    top: 90%;
+    left: 0%;
+    margin-left: 0px;
+    width: 100%;
+    height: 10%;
+    border: 1px solid LightGray;
+    background-color: LightGray;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overtop {
+    position: absolute;
+    font-size: 200px;
+    top: 0%;
+    left: 0%;
+    margin-left: 0px;
+    width: 100%;
+    height: 10%;
+    border: 1px solid LightGray;
+    background-color: LightGray;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overmiddle {
+    position: absolute;
+    top: 0%;
+    left: 21%;
+    margin-left: 0px;
+    width: 60%;
+    height: 94%;
+    border: 1px solid orange;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#mainpageWelcome {
+    position: absolute;
+    top: 2%;
+    left: 22%;
+    margin-left: 0px;
+    width: 25%;
+    height: 10%;
+    border: 1px solid orange;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overmiddleleft {
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    margin-left: 0px;
+    width: 30%;
+    height: 50%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overmiddleright {
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    margin-left: 0px;
+    width: 25%;
+    height: 50%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overmiddleleftABOVEtext {
+    position: absolute;
+    top: 17%;
+    left: 22%;
+    margin-left: 0px;
+    width: 15%;
+    height: 5%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#overmiddlerightABOVEtext {
+    position: absolute;
+    top: 27%;
+    left: 62%;
+    margin-left: 0px;
+    width: 15%;
+    height: 5%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+#loginpagePanel {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    margin-left: 0px;
+    width: 30%;
+    height: 50%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#listboxFormPanel {
+    position: absolute;
+    top: 20%;
+    left: 27%;
+    margin-left: 0px;
+    width: 30%;
+    height: 50%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#listboxFormPanelButtons {
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    margin-left: 0px;
+    width: 10%;
+    height: 30%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#listboxFormPanelText {
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    margin-left: 0px;
+    width: 25%;
+    height: 10%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#reviewRequestsCustom {
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    margin-left: 0px;
+    width: 25%;
+    height: 40%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#reviewRequestsBackButton {
+    position: absolute;
+    top: 75%;
+    left: 23%;
+    margin-left: 0px;
+    width: 15%;
+    height: 10%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#editRequestFormMainData {
+    position: absolute;
+    top: 10%;
+    left: 22%;
+    margin-left: 0px;
+    width: 30%;
+    height: 65%;
+    border: 1px solid orange;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#editRequestFormCheckBoxData {
+    position: absolute;
+    top: 20%;
+    left: 55%;
+    margin-left: 0px;
+    width: 25%;
+    height: 50%;
+    border: 1px solid orange;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#editRequestFormBottomButtons {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    margin-left: 0px;
+    width: 25%;
+    height: 10%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+#editRequestFormTopRightText {
+    position: absolute;
+    top: 1%;
+    left: 55%;
+    margin-left: 0px;
+    width: 25%;
+    height: 10%;
+    border: 1px solid #2284AA;
+    background-color: #2284AA;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
